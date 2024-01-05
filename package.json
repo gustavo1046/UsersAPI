@@ -1,0 +1,22 @@
+{
+  "name": "usersapi",
+  "version": "1.0.0",
+  "description": "Users API development with Nodejs and MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavo1046/UsersAPI.git"
+  },
+  "author": "Gustavo Florindo Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gustavo1046/UsersAPI/issues"
+  },
+  "homepage": "https://github.com/gustavo1046/UsersAPI#readme",
+  "dependencies": {
+    "Express": "^3.0.1"
+  }
+}
